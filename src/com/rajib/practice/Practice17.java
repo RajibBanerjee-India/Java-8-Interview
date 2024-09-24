@@ -17,5 +17,7 @@ public class Practice17 {
 
         // Print
         list1.stream().filter(list2::contains).forEach(System.out::println);
+
+
     }
 }
