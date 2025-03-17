@@ -14,8 +14,6 @@ public class Practice3 {
 
         String inputString = "Java Concept Of The Day";
 
-        System.out.println(inputString.chars());
-
         // String.chars() - Returns a stream of int zero-extending the char values from this sequence.
         // Collectors.groupingBy() - Returns a Collector implementing the cascaded group-by operation
         // Collectors.counting() - Returns a Collector accepting elements of type T that counts the number of input elements
